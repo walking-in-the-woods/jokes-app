@@ -1,4 +1,4 @@
-package as.jokesapp.services;
+package as.joke.services;
 
 public interface JokeService {
 

@@ -1,6 +1,6 @@
-package as.jokesapp.contrillers;
+package as.joke.contrillers;
 
-import as.jokesapp.services.JokeService;
+import as.joke.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
